@@ -39,6 +39,6 @@
 StrategyPatternDemo，我们的演示类使用 Context 和策略对象来演示 Context 在它所配置或使用的策略改变时的行为变化。
 
 
-
+![Image text](https://github.com/wvdwork/design_pattern/blob/master/images/strategy.jpeg)
 
 
