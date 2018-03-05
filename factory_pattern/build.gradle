@@ -19,7 +19,7 @@ apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 
 jar {
-    baseName = 'strategy_pattern'
+    baseName = 'factory_pattern'
     version = '1.0'
 }
 

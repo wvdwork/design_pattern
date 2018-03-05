@@ -1,3 +1,4 @@
 rootProject.name = 'design_pattern'
 include 'strategy_pattern'
+include 'factory_pattern'
 
